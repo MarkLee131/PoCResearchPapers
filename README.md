@@ -43,7 +43,7 @@
 
 #### NDSS
 
-- SyzBridge: Bridging the Gap in Exploitability Assessment of Linux Kernel Bugs in the Linux Ecosystem [pdf]([https://www.ndss-symposium.org/wp-content/uploads/2024-145-paper.pdf](https://www.ndss-symposium.org/wp-content/uploads/2024-926-paper.pdf))
+- SyzBridge: Bridging the Gap in Exploitability Assessment of Linux Kernel Bugs in the Linux Ecosystem [pdf](https://www.ndss-symposium.org/wp-content/uploads/2024-926-paper.pdf)
 
 #### USENIX Security
 
@@ -51,7 +51,7 @@
 
 #### ICSE
 
-- Exploiting Library Vulnerability via Migration Based Automating Test Generation [pdf]([https://ieeexplore.ieee.org/document/9402015](https://dl.acm.org/doi/10.1145/3597503.3639583))
+- Exploiting Library Vulnerability via Migration Based Automating Test Generation [pdf](https://dl.acm.org/doi/10.1145/3597503.3639583)
 
 ### 2023
 
@@ -71,7 +71,7 @@
 
 #### CCS
 
-- Evocatio: Conjuring Bug Capabilities from a Single PoC [pdf](https://dl.acm.org/doi/10.1145/3548606.3560615)
+- Evocatio: Conjuring Bug Capabilities from a Single PoC [pdf](https://dl.acm.org/doi/abs/10.1145/3548606.3560575)
 
 #### USENIX Security
 
@@ -80,14 +80,21 @@
 
 ### 2021
 
+#### CCS
+- Facilitating Vulnerability Assessment through PoC Migration [doi](https://doi.org/10.1145/3460120.3484594)
+
+#### USENIX Security
+
+- MAZE: Towards Automated Heap Feng Shui [pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/wang-yan)
+
 #### TDSC
 
-- OCTOPOCS: Automatic Verification of Propagated Vulnerable Code Using Reformed Proofs of Concept [pdf](https://ieeexplore.ieee.org/document/9593393)
+- OCTOPOCS: Automatic Verification of Propagated Vulnerable Code Using Reformed Proofs of Concept [pdf](https://ieeexplore.ieee.org/document/9505070)
 
 
 #### ICSE
 
-- RAProducer: Efficiently Diagnose and Reproduce Data Race Bugs for Binaries via Trace Analysis [pdf](https://dl.acm.org/doi/10.1145/3460319.3464812)
+- RAProducer: Efficiently Diagnose and Reproduce Data Race Bugs for Binaries via Trace Analysis [pdf](https://dl.acm.org/doi/10.1145/3460319.3464831)
 
 #### ICPC
 
@@ -97,7 +104,6 @@
 
 #### USENIX Security
 
-- MAZE: Towards Automated Heap Feng Shui [pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/wang-yan)
 - KOOBE: Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities [pdf](https://www.usenix.org/system/files/sec20-chen-weiteng.pdf)
 
 ### 2019
@@ -171,23 +177,22 @@ Automated techniques for generating proof-of-concept exploits using fuzzing, sym
 
 #### Symbolic Execution and Constraint Solving
 
-* Automatic Patch-Based Exploit Generation is Possible: Techniques and Implications (S&P '08) [pdf](https://ieeexplore.ieee.org/document/4531148)
-* FUZE: Towards Facilitating Exploit Generation for Kernel Use-After-Free Vulnerabilities (USENIX Security '18) [pdf](https://www.usenix.org/conference/usenixsecurity18/presentation/isaac)
-* NAVEX: Precise and Scalable Exploit Generation for Dynamic Web Applications (USENIX Security '18) [pdf](https://www.usenix.org/conference/usenixsecurity18/presentation/liu)
-* BAGUA: Towards Automatic and Precise Heap Layout Manipulation for General-Purpose Programs (NDSS '23) [pdf](https://www.ndss-symposium.org/wp-content/uploads/2023-232-paper.pdf)
-* MAZE: Towards Automated Heap Feng Shui (USENIX Security '20) [pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/wang-yan)
-* KOOBE: Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities (USENIX Security '20) [pdf](https://www.usenix.org/conference/usenixsecurity20/presentation/chen)
-* Gollum: Modular and Greybox Exploit Generation for Heap Overflows in Interpreters (CCS '20) [pdf](https://dl.acm.org/doi/10.1145/3319535.3363224)
-* SLAKE: Facilitating Slab Manipulation for Exploiting Vulnerabilities in the Linux Kernel (CCS '20) [pdf](https://dl.acm.org/doi/10.1145/3319535.3363192)
-* Toward Automated Exploit Generation for Known Vulnerabilities in Open-Source Libraries (TSE '21) [pdf](https://ieeexplore.ieee.org/document/9432271)
+* Automatic Patch-Based Exploit Generation is Possible: Techniques and Implications (SP '08) [pdf](https://ieeexplore.ieee.org/document/4531150)
+* FUZE: Towards Facilitating Exploit Generation for Kernel Use-After-Free Vulnerabilities (USENIX Security '18) [pdf](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-wu_0.pdf)
+* NAVEX: Precise and Scalable Exploit Generation for Dynamic Web Applications (USENIX Security '18) [pdf](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-alhuzali.pdf)
+* MAZE: Towards Automated Heap Feng Shui (USENIX Security '21) [pdf](https://www.usenix.org/conference/usenixsecurity21/presentation/wang-yan)
+KOOBE: Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities (USENIX Security '20) [pdf](https://www.usenix.org/system/files/sec20-chen-weiteng.pdf)
+
+* Gollum: Modular and Greybox Exploit Generation for Heap Overflows in Interpreters (CCS '19) [pdf](https://dl.acm.org/doi/10.1145/3319535.3354224)
+* SLAKE: Facilitating Slab Manipulation for Exploiting Vulnerabilities in the Linux Kernel (CCS '19) [pdf](https://dl.acm.org/doi/10.1145/3319535.3363212)
+
+* Toward Automated Exploit Generation for Known Vulnerabilities in Open-Source Libraries (ICPC '21) [pdf](https://ieeexplore.ieee.org/document/9462983)
 
 #### Program Analysis and Automation
 
 * NodeMedic-FINE: Automatic Detection and Exploit Synthesis for Node.js Vulnerabilities (NDSS '25) [pdf](https://www.ndss-symposium.org/wp-content/uploads/2025-1636-paper.pdf)
 * Automated Exploit Generation for Node.js Packages (PLDI '25) [pdf](https://www.andrew.cmu.edu/user/liminjia/research/papers/explodejs-pldi25.pdf)
 * Practical Data-Only Attack Generation (USENIX Security '24) [pdf](https://www.usenix.org/system/files/usenixsecurity24-johannesmeyer.pdf)
-* PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts (TIFS '25) [pdf](https://arxiv.org/abs/2511.02780)
-
 ---
 
 ### PoC Applications
@@ -196,23 +201,24 @@ Applications of PoC exploits in vulnerability assessment, exploit prediction, mi
 
 #### Vulnerability Assessment and Exploitability Prediction
 
-* Beyond heuristics: learning to classify vulnerabilities and predict exploits (SIGKDD '10) [pdf](https://dl.acm.org/doi/10.1145/1835804.1835860)
-* Revery: From Proof-of-Concept to Exploitable (CCS '18) [pdf](https://dl.acm.org/doi/10.1145/3243734.3243824)
+* Beyond Heuristics: Learning to Classify Vulnerabilities and Predict Exploits (SIGKDD '10) [pdf](https://dl.acm.org/doi/10.1145/1835804.1835821)
+
+* Revery: From Proof-of-Concept to Exploitable (CCS '18) [pdf](https://dl.acm.org/doi/10.1145/3243734.3243847)
 * Expected Exploitability: Predicting the Development of Functional Vulnerability Exploits (USENIX Security '22) [pdf](https://www.usenix.org/system/files/sec22summer_suciu.pdf)
-* SyzBridge: Bridging the Gap in Exploitability Assessment of Linux Kernel Bugs in the Linux Ecosystem (S&P/NDSS '24) [pdf](https://www.ndss-symposium.org/wp-content/uploads/2024-145-paper.pdf)
+* SyzBridge: Bridging the Gap in Exploitability Assessment of Linux Kernel Bugs in the Linux Ecosystem (S&P/NDSS '24) [pdf](https://www.ndss-symposium.org/wp-content/uploads/2024-926-paper.pdf)
 * SyzScope: Revealing High-Risk Security Impacts of Fuzzer-Exposed Bugs in Linux Kernel (USENIX Security '22) [pdf](https://www.usenix.org/system/files/sec22summer_wang.pdf)
 * KEPLER: Facilitating Control-Flow Hijacking Primitive Evaluation for Linux Kernel Vulnerabilities (USENIX Security '19) [pdf](https://www.usenix.org/conference/usenixsecurity19/presentation/wu-wei)
 
 #### PoC Migration and Transformation
 
-* Exploiting Library Vulnerability via Migration Based Automating Test Generation (ICSE '21) [pdf](https://ieeexplore.ieee.org/document/9402015)
-* VulScope: Facilitating Vulnerability Assessment through PoC Migration (CCS '21) [doi](https://doi.org/10.1145/3460120.3484594)
-* OCTOPOCS: Automatic Verification of Propagated Vulnerable Code Using Reformed Proofs of Concept (TDSC '21) [pdf](https://ieeexplore.ieee.org/document/9593393)
-* Evocatio: Conjuring Bug Capabilities from a Single PoC (CCS '22) [pdf](https://dl.acm.org/doi/10.1145/3548606.3560615)
+* Exploiting Library Vulnerability via Migration Based Automating Test Generation (ICSE '24) [pdf](https://dl.acm.org/doi/10.1145/3597503.3639583)
+* Facilitating Vulnerability Assessment through PoC Migration (CCS '21) [doi](https://doi.org/10.1145/3460120.3484594)
+* OCTOPOCS: Automatic Verification of Propagated Vulnerable Code Using Reformed Proofs of Concept (TDSC '21) [pdf](https://ieeexplore.ieee.org/document/9505070)
+* Evocatio: Conjuring Bug Capabilities from a Single PoC (CCS '22) [pdf](https://dl.acm.org/doi/abs/10.1145/3548606.3560575)
 
 #### Bug Reproduction
 
-* RAProducer: Efficiently Diagnose and Reproduce Data Race Bugs for Binaries via Trace Analysis (ISSTA '21) [pdf](https://dl.acm.org/doi/10.1145/3460319.3464812)
+* RAProducer: Efficiently Diagnose and Reproduce Data Race Bugs for Binaries via Trace Analysis (ISSTA '21) [pdf](https://dl.acm.org/doi/10.1145/3460319.3464831)
 
 ---
 
@@ -223,6 +229,7 @@ Applications of PoC exploits in vulnerability assessment, exploit prediction, mi
 - Real-World Usability of Vulnerability Proof-of-Concepts: A Comprehensive Study [pdf](https://arxiv.org/pdf/2510.1844)
 - PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in NPM Packages [pdf](https://arxiv.org/pdf/2506.04962v3)
 - Diffploit: Facilitating Cross-Version Exploit Migration for Open Source Library Vulnerabilities [pdf](https://arxiv.org/pdf/2511.12950)
+
 ---
 
 
