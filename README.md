@@ -25,9 +25,6 @@
 
 - Automated Exploit Generation for Node.js Packages [pdf](https://www.andrew.cmu.edu/user/liminjia/research/papers/explodejs-pldi25.pdf)
 
-#### TIFS
-
-- PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts [pdf](https://arxiv.org/abs/2511.02780)
 
 ### 2024
 
@@ -221,6 +218,16 @@ Applications of PoC exploits in vulnerability assessment, exploit prediction, mi
 * RAProducer: Efficiently Diagnose and Reproduce Data Race Bugs for Binaries via Trace Analysis (ISSTA '21) [pdf](https://dl.acm.org/doi/10.1145/3460319.3464812)
 
 ---
+
+# Preprint
+
+- PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts [pdf](https://arxiv.org/abs/2511.02780)
+- A Systematic Study on Generating Web Vulnerability Proof-of-Concepts Using Large Language Models [pdf](https://arxiv.org/abs/2510.10148)
+- Real-World Usability of Vulnerability Proof-of-Concepts: A Comprehensive Study [pdf](https://arxiv.org/pdf/2510.1844)
+- PoCGen
+
+---
+
 
 ## Contributing
 
