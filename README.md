@@ -25,6 +25,14 @@
 
 - Automated Exploit Generation for Node.js Packages [pdf](https://www.andrew.cmu.edu/user/liminjia/research/papers/explodejs-pldi25.pdf)
 
+#### ASE
+- DeepExploitor: LLM-Enhanced Automated Exploitation of DeepLink Attack in Hybrid Apps
+
+#### USENIX Security
+
+- Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations [pdf](https://www.usenix.org/system/files/usenixsecurity25-xiang-bocheng.pdf)
+- Towards Automatic Detection and Exploitation of Java Web Application Vulnerabilities via Concolic Execution guided by Cross-thread Object Manipulation [pdf](https://www.usenix.org/system/files/usenixsecurity25-huang-xinyou.pdf)
+- ChainFuzz: Exploiting Upstream Vulnerabilities in Open-Source Supply Chains [pdf](https://www.usenix.org/system/files/usenixsecurity25-deng.pdf)
 
 ### 2024
 
