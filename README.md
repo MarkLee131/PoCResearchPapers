@@ -26,6 +26,7 @@
 - Automated Exploit Generation for Node.js Packages [pdf](https://www.andrew.cmu.edu/user/liminjia/research/papers/explodejs-pldi25.pdf)
 
 #### ASE
+- Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation
 - DeepExploitor: LLM-Enhanced Automated Exploitation of DeepLink Attack in Hybrid Apps
 
 #### USENIX Security
@@ -153,7 +154,7 @@ Empirical studies, surveys, and measurements analyzing PoC exploits, bug reports
 
 #### Exploit Reproducibility
 
-* Understanding the Reproducibility of Crowd-reported Security Vulnerabilities (USENIX Security '18) [pdf](https://www.usenix.org/conference/usenixsecurity18/presentation/kuznetsov)
+- Understanding the Reproducibility of Crowd-Reported Security Vulnerabilities [pdf](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-mu.pdf)
 
 ---
 
@@ -163,7 +164,7 @@ Automated techniques for generating proof-of-concept exploits using fuzzing, sym
 
 #### Fuzzing-Based Generation
 
-* SemFuzz: Semantics-based Automatic Generation of Proof-of-Concept Exploits (CCS '17) [pdf](https://dl.acm.org/doi/10.1145/3133956.3134019)
+* SemFuzz: Semantics-Based Automatic Generation of Proof-of-Concept Exploits [pdf](https://dl.acm.org/doi/10.1145/3133956.3134085)
 * ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing (S&P '23) [pdf](https://arxiv.org/abs/2304.04233)
 * 1dFuzz: Reproduce 1-Day Vulnerabilities with Directed Differential Fuzzing (ISSTA '23) [pdf](https://dl.acm.org/doi/10.1145/3597926.359810)
 * Efficient Detection of Java Deserialization Gadget Chains via Bottom-up Gadget Search (S&P '24) [pdf](https://yinzhicao.org/JavaDeserialization/JavaDeserialization-Oakland.pdf)
