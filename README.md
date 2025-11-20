@@ -31,7 +31,7 @@
 #### S&P
 
 - SyzBridge: Bridging the Gap in Exploitability Assessment of Linux Kernel Bugs in the Linux Ecosystem [pdf](https://www.ndss-symposium.org/wp-content/uploads/2024-145-paper.pdf)
-- Practical Data-Only Attack Generation [pdf](https://www.usenix.org/system/files/usenixsecurity24-johannesmeyer.pdf)
+- Efficient Detection of Java Deserialization Gadget Chains via Bottom-up Gadget Search and Dataflow-aided Payload Construction [pdf](https://ieeexplore.ieee.org/abstract/document/10646692)
 
 #### NDSS
 
