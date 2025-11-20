@@ -4,6 +4,8 @@
 theme: jekyll-theme-cayman
 title: "PoC Research Papers"
 description: "A curated collection of academic research papers on Proof-of-Concept exploits"
+url: "https://marklee131.github.io"
+baseurl: "/PoC-Research-Papers"
 
 # SEO
 lang: en-US
