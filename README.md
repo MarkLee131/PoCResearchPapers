@@ -219,7 +219,7 @@ Applications of PoC exploits in vulnerability assessment, exploit prediction, mi
 
 ---
 
-# Preprint
+## Preprints
 
 - PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts [pdf](https://arxiv.org/abs/2511.02780)
 - A Systematic Study on Generating Web Vulnerability Proof-of-Concepts Using Large Language Models [pdf](https://arxiv.org/abs/2510.10148)
